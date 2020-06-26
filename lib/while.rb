@@ -5,5 +5,6 @@ def using_while
   puts "Wingardium Leviosa"
   counter += 1
 end
+using_while
 
 
